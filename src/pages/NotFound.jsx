@@ -13,7 +13,7 @@ function NotFound() {
             to='/'
             className='bg-blue-600 text-white rounded-md text-2xl flex w-[40%] h-[40px] mb-10 items-center'
           >
-            <FaHome className='mr-2' />
+            <FaHome className='mr-2 px-[2px]' />
             Back To Home
           </Link>
         </div>
