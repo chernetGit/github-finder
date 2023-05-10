@@ -31,7 +31,7 @@ function UserSearch() {
             <input
               type='text'
               className='w-full pr-40 pl-5 bg-gray-200 input input-lg text-black rounded-l-md h-[40px]'
-              placeholder='search'
+              placeholder='search github account'
               value={text}
               onChange={handleChange}
             />
